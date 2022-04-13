@@ -12,7 +12,7 @@ public class EnhancedForLoop {
         }
 
         // enhanced for loop (foreach):
-//        for(int oddNumber : oddNumbers) { // just a little syntactic sugar
+//        for(int oddNumber : oddNumbers) {
 //            System.out.println(oddNumber);
 //        }
 
@@ -31,8 +31,8 @@ public class EnhancedForLoop {
 
         // what about a HashMap
 //        HashMap<String, String> map = new HashMap<String, String>();
-//        map.put("firstName", "Paul");
-//        map.put("lastName", "Matthews");
+//        map.put("firstName", "Edna");
+//        map.put("lastName", "Mode");
 //        for(String key : map.keySet()) {
 //            System.out.println("key: " + key);
 //            System.out.println("value: " + map.get(key));
